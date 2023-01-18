@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.jogo {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vmin;
+}
+
+.titulo {
+    color: white;
+}
+
+.botao {
+    background-color: purple;
+    font-size: 1.5em;
+    border-radius: 10px;
+    padding: 20px;
+    font-weight: bold;
+    color: aliceblue;
+    cursor: pointer;
+}
