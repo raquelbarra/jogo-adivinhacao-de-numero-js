@@ -9,9 +9,9 @@ Jogo para adivinhação do número aleatório gerado de 1 a 10.
 HTML, CSS e Javascript
 
 ## Objetivo:
-1 - Ao clicar no botão iniciar gerar um número aleatório de 1 a 10
-2 - Solicitar que o usuário digite o valor sorteado
-3 - Validar se o número recebido é inteiro, e, se está no intervalo de 1 a 10
+- Ao clicar no botão iniciar gerar um número aleatório de 1 a 10
+- Solicitar que o usuário digite o valor sorteado
+- Validar se o número recebido é inteiro, e, se está no intervalo de 1 a 10
 
 ## Mensagens:
 - Há cada tentativa, informar a quantidade de tentativas realizadas
