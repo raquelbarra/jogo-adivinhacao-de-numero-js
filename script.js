@@ -40,7 +40,7 @@ function iniciar(){
 
         // Caso o valor digitado seja inválido, será solicitado um valor válido de 1 - 10
         while(valida == 'outro'){
-            numSorte = Number(prompt("Digite um número válido! \n Qual o número da sorte? (1 - 10)"));
+            numSorte = prompt("Digite um número válido! \n Qual o número da sorte? (1 - 10)");
 
             // Valida se o usuário clicou em cancelar, caso não, valida o número recebido
             if(numSorte == false){
